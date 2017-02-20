@@ -4,6 +4,6 @@ This is the github page for William La Cava. I'm a postdoctoral fellow at the Un
 
 [FEW](http://lacava.github.io/few): a feature engineering wrapper for machine learning
 
-[ellyn](http://github.com/EpistasisLab/ellyn): a genetic programming system for regression and classification
+[ellyn](http://epistasislab.github.io/ellyn): a genetic programming system for regression and classification
 
 
