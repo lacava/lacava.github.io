@@ -11,17 +11,17 @@ Projects
 
 [ellen](http://lacava.github.io/ellen): a genetic programming system for regression and classification in C++
 
-[LocallyWeightedFusion](http://github.com/lacava/LocallyWeightedFusion): a sklearn-compatible ensemble method based on local weighting of multiple estimators
+[Locally Weighted Fusion](http://github.com/lacava/LocallyWeightedFusion): a sklearn-compatible ensemble method based on local weighting of multiple estimators
 
 
 
 Other Info
 ===
 
-[research summary](http://www.williamlacava.com/work)
+[Research Summary](http://www.williamlacava.com/work)
 
-[cv](http://www.williamlacava.com/la_cava_cv.pdf)
+[Cv](http://www.williamlacava.com/la_cava_cv.pdf)
 
-[google scholar](https://scholar.google.com/citations?user=iZB7inEAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=iZB7inEAAAAJ&hl=en)
 
-[linkedin](https://www.linkedin.com/in/williamlacava/)
+[LinkedIn](https://www.linkedin.com/in/williamlacava/)
