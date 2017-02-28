@@ -1,6 +1,9 @@
 Hi
 ===
-This is the github page for William La Cava. I'm a postdoctoral fellow at the University of Pennsylvania in the [Institute for Bioinformatics](http://upibi.org). Here are some of my projects:
+This is the github page for William La Cava. I'm a postdoctoral fellow at the University of Pennsylvania in the [Institute for Bioinformatics](http://upibi.org).  
+
+Projects
+===
 
 [FEW](http://lacava.github.io/few): a feature engineering wrapper for machine learning
 
@@ -15,7 +18,7 @@ This is the github page for William La Cava. I'm a postdoctoral fellow at the Un
 Other Info
 ===
 
-[research summary](http://www.williamlacava/com/work)
+[research summary](http://www.williamlacava.com/work)
 
 [cv](http://www.williamlacava.com/la_cava_cv.pdf)
 
