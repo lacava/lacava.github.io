@@ -16,7 +16,7 @@
  - [PMLB](https://github.com/EpistasisLab/penn-ml-benchmarks/): a large, curated repository of benchmarks for evaluating supervised machine learning algorithms
 
 
-### About Me
+## About Me
 
 
  - [Research Summary](http://www.williamlacava.com/work)
