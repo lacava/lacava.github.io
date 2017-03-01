@@ -1,27 +1,32 @@
-Hi
-===
+# Hi
+
 This is the github page for William La Cava. I'm a postdoctoral fellow at the University of Pennsylvania in the [Institute for Bioinformatics](http://upibi.org).  
 
-Projects
+## Projects
+
+
+ - [FEW](http://lacava.github.io/few): a feature engineering wrapper for machine learning
+
+ - [ellyn](http://epistasislab.github.io/ellyn): a sklearn-compatible genetic programming system for regression and classification in Python
+
+ - [ellen](http://lacava.github.io/ellen): a genetic programming system for regression and classification in C++
+
+ - [Locally Weighted Fusion](http://github.com/lacava/LocallyWeightedFusion): a sklearn-compatible ensemble method based on local weighting of multiple estimators
+
+## Useful Data Repositories
+
+ - [ode-strogatz](http://lacava.github.io/ode-strogatz): a simulated benchmark data set of nonlinear ordinary differential equations
+
+ - [PMLB](https://github.com/EpistasisLab/penn-ml-benchmarks/): a large, curated repository of benchmarks for evaluating supervised machine learning algorithms
+
+
+Author Info
 ===
 
-[FEW](http://lacava.github.io/few): a feature engineering wrapper for machine learning
+ - [Research Summary](http://www.williamlacava.com/work)
 
-[ellyn](http://epistasislab.github.io/ellyn): a sklearn-compatible genetic programming system for regression and classification in Python
+ - [CV](http://www.williamlacava.com/la_cava_cv.pdf)
 
-[ellen](http://lacava.github.io/ellen): a genetic programming system for regression and classification in C++
+ - [Google Scholar](https://scholar.google.com/citations?user=iZB7inEAAAAJ&hl=en)
 
-[Locally Weighted Fusion](http://github.com/lacava/LocallyWeightedFusion): a sklearn-compatible ensemble method based on local weighting of multiple estimators
-
-
-
-Other Info
-===
-
-[Research Summary](http://www.williamlacava.com/work)
-
-[Cv](http://www.williamlacava.com/la_cava_cv.pdf)
-
-[Google Scholar](https://scholar.google.com/citations?user=iZB7inEAAAAJ&hl=en)
-
-[LinkedIn](https://www.linkedin.com/in/williamlacava/)
+ - [LinkedIn](https://www.linkedin.com/in/williamlacava/)
