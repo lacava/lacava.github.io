@@ -19,7 +19,7 @@
 ## About Me
 
 
- - [Research Summary](http://www.williamlacava.com/work)
+ - [Research Summary](http://www.williamlacava.com/research)
 
  - [CV](http://www.williamlacava.com/la_cava_cv.pdf)
 
