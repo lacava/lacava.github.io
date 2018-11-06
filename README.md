@@ -1,7 +1,8 @@
 ## Projects
 
+ - [Feat](http://lacava.github.io/feat): a multi-type, flexible feature engineering automation tool
 
- - [FEW](http://lacava.github.io/few): a feature engineering wrapper for machine learning
+ - [FEW](http://lacava.github.io/few): a feature engineering wrapper for scikit-learn 
 
  - [ellyn](http://epistasislab.github.io/ellyn): a sklearn-compatible genetic programming system for regression and classification in Python
 
