@@ -10,6 +10,8 @@
 
  - [Locally Weighted Fusion](http://github.com/lacava/LocallyWeightedFusion): a sklearn-compatible ensemble method based on local weighting of multiple estimators
 
+ - [PennAI](https://epistasislab.github.io/pennai): an AI-driven, browser-based data science assistant
+
 ## Useful Data Repositories
 
  - [ode-strogatz](http://lacava.github.io/ode-strogatz): a simulated benchmark data set of nonlinear ordinary differential equations
