@@ -1,6 +1,6 @@
 ## Projects
 
- - [Feat](http://lacava.github.io/feat): a multi-type, flexible feature engineering automation tool
+ - [Feat](http://cavalab.github.io/feat): a multi-type, flexible feature engineering automation tool
 
  - [FEW](http://lacava.github.io/few): a feature engineering wrapper for scikit-learn 
 
@@ -12,6 +12,8 @@
 
  - [PennAI](https://epistasislab.github.io/pennai): an AI-driven, browser-based data science assistant
 
+ - [SRBench](https://cavalab.org/srbench): A living benchmarking framework for symbolic regression
+
 ## Useful Data Repositories
 
  - [ode-strogatz](http://lacava.github.io/ode-strogatz): a simulated benchmark data set of nonlinear ordinary differential equations
@@ -21,9 +23,12 @@
 
 ## About Me
 
+ - [Cava Lab](https://cavalab.org)
 
- - [Research Summary](http://www.williamlacava.com/research) 
+ - [Personal Site](http://www.williamlacava.com/research) 
 
  - [Google Scholar](https://scholar.google.com/citations?user=iZB7inEAAAAJ&hl=en)
+
+ - [Twitter](https://twitter.com/w_la_cava)
 
  - [LinkedIn](https://www.linkedin.com/in/williamlacava/)
