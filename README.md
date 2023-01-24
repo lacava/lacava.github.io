@@ -1,3 +1,13 @@
+## About Me
+
+ - Main page: [cavalab.org](https://cavalab.org)
+
+ - [Google Scholar](https://scholar.google.com/citations?user=iZB7inEAAAAJ&hl=en)
+
+ - [Twitter](https://twitter.com/w_la_cava)
+
+ - [LinkedIn](https://www.linkedin.com/in/williamlacava/)
+ 
 ## Projects
 
  - [Feat](http://cavalab.github.io/feat): a multi-type, flexible feature engineering automation tool
@@ -21,14 +31,4 @@
  - [PMLB](https://github.com/EpistasisLab/penn-ml-benchmarks/): a large, curated repository of benchmarks for evaluating supervised machine learning algorithms
 
 
-## About Me
 
- - [Cava Lab](https://cavalab.org)
-
- - [Personal Site](http://www.williamlacava.com/research) 
-
- - [Google Scholar](https://scholar.google.com/citations?user=iZB7inEAAAAJ&hl=en)
-
- - [Twitter](https://twitter.com/w_la_cava)
-
- - [LinkedIn](https://www.linkedin.com/in/williamlacava/)
