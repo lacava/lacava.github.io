@@ -1,0 +1,57 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: Research 
+    entries:
+      - title: Cava Lab
+        url: http://www.cavalab.org
+      - title: Publications
+        url: http://www.cavalab.org/publications
+      - title: Fair Machine Learning for Healthcare
+        url: https://cavalab.org/research/fair-ml/
+      - title: Interpretable Machine Learning for Data Science
+        url: https://cavalab.org/research/interpretable-ml/
+        # entries:
+        #   - title: Learning Intelligible Feature Spaces
+        #     url: /research/symbolic-regression
+        #   - title: Lexicase Selection
+        #     url: /research/lexicase
+        #   - title: Identifying Concise, Nonlinear Dynamic Models
+        #     url: /research/dynamic-models
+        #   - title: Structural Adaptation of Models and Controllers
+        #     url: /research/msam
+      - title: Automating Digital Health
+        url: https://cavalab.org/research/automl/
+
+  - title: Musings
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: Previous Groups
+    entries:
+      - title: Post-Doc
+        entries:
+          - title: Computational Genetics Lab
+            url: http://epistasis.org 
+          - title: Institute for Biomedical Informatics
+            url: http://upibi.org
+          - title: Warren Center for Network and Data Sciences
+            url: http://warrencenter.upenn.edu
+      - title: PhD
+        entries:
+          - title: UMass NSF Wind Energy IGERT Fellowship
+            url: http://windenergyigert.umass.edu/
+          - title: Hampshire Computational Intelligence Laboratory (Lee Spector)
+            url: http://sites.hampshire.edu/ci-lab/
+      - title: Research Scientist
+        entries:
+          - title: National Wind Technology Center (NWTC)
+            url: http://nwtc.nrel.gov
+          - title: NWTC Gearbox Reliability Collaborative
+            url: https://www.nrel.gov/wind/grc-research.html
+
+

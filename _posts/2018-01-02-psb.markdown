@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Data-driven advice for ML in Biomedical Informatics"
+date:   2018-01-02 21:52:00 -0500
+categories: psb
+---
+
+The increased accessibility of ML creates a "choice overload" for biomedical informaticians when it comes to choosing appropriate ML methods and parameters for their datasets. This week at [PSB](http://psb.stanford.edu), I'll be presenting our recent work to tackle this problem with data-driven findings. We ran a large experimental study of several open-source ML algorithms on many open-source datasets to generate recommendations for where to begin. Check out the paper [here.](http://psb.stanford.edu/psb-online/proceedings/psb18/olson.pdf)

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Lexicase selection theory paper preprint"
+date:   2017-11-24 09:00:00 -0500
+categories: gecco update
+---
+Selection methods are an important part of evolutionary algorithms since they determine which
+candidate solutions are kept around during search. Recently I developed a variant of lexicase
+selection known as epsilon-lexicase selection to work with regression problems.
+
+In a recent paper we delve more into the theory behind why lexicase works, looking both at
+probabilities of selection and multi-objective interpretations of this method. Check it out on
+[arXiv](https://arxiv.org/abs/1709.05394).
