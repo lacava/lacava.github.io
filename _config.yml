@@ -25,7 +25,7 @@ github_username: lacava
 
 # Build settings
 markdown: kramdown
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 theme_config:
     appearance: "auto" # can be "light", "dark" or "auto"
     back_home_text: ".." # customize text for homepage link in post layout
