@@ -13,7 +13,7 @@ william.lacava@childrens.harvard.edu \
 [Lab site](https://cavalab.org) -
 [Scholar](https://scholar.google.com/citations?hl=en&user=iZB7inEAAAAJ) - 
 [Github](https://github.com/lacava) -
-[Twitter](https://twitter.com/w_la_cava)
+[Bluesky](https://bsky.app/profile/lacava.bsky.social)
 
 ---
 
